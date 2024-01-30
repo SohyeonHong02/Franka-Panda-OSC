@@ -1,5 +1,5 @@
 # Franka-Panda-OSC
-Franka Emika Panda
+Franka Emika Panda\n
 Joint Space Control
 CLIK
 Operational Space Control
